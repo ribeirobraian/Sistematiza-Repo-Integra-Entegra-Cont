@@ -1,6 +1,6 @@
 # Python CI Sample
 
-Pequeno projeto em Python para para exposição do trabalho da aula de Integração e Entrega Contínuas com GitHub Actions, com validação automática a cada alteração no código.
+Pequeno projeto em Python para para exposição do trabalho da aula de Integração e Entrega Contínuas com GitHub Actions, fazendo uma validação automática a cada alteração no código.
 
 ## O que o projeto faz
 
